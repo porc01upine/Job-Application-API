@@ -1,6 +1,9 @@
-project:
-  name: Job Application Management API
-  description: A backend REST API built using FastAPI to manage job applications for a single company and job opening.
+# 🚀 Job Application Management API
+
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-green)](https://fastapi.tiangolo.com/)
+[![License](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
+
 
 tech_stack:
   - Python 3.9+
